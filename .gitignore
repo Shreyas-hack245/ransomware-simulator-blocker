@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Demo data (Don't track the files created during the attack)
+demo/docs/file_*
+!demo/docs/.gitkeep
+
+# Operating System files
+.DS_Store
+Thumbs.db
