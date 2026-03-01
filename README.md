@@ -12,5 +12,12 @@
 ## 🛠️ Quick Start
 ```bash
 pip install -r requirements.txt
+```
+Next paste
+```
 mkdir -p demo/docs backup
+```
+next paste 
+```
 cd demo && ../blocker.py
+```
